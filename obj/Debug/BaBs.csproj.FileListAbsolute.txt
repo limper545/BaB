@@ -1,0 +1,11 @@
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\obj\Debug\BaBs.csprojResolveAssemblyReference.cache
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\obj\Debug\BaB_1.Form1.resources
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\obj\Debug\BaB_1._0.Properties.Resources.resources
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\obj\Debug\BaBs.csproj.GenerateResource.Cache
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\obj\Debug\BaBs.csproj.CoreCompileInputs.cache
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\bin\Debug\BaB_1.0.exe.config
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\bin\Debug\BaB_1.0.exe
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\bin\Debug\BaB_1.0.pdb
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\obj\Debug\BaB_1.0.exe
+C:\Users\FaZe Limper\source\repos\BaB_1.0\BaB_1.0\obj\Debug\BaB_1.0.pdb
